@@ -13,7 +13,7 @@ Attached Policies
         "s3:GetObject",
         "s3:PutObject"
       ],
-      "Resource": "arn:aws:s3:::your-bucket-name/*"
+      "Resource": "arn:aws:s3:::cognify-s3-requests/*"
     }
   ]
 }`
